@@ -90,7 +90,7 @@
 ## historical-viz
 **Purpose:** TKTK
 
-**Moderators:** TKTK
+**Moderators:** @Jason Forrest, @Stephanie Tuerk
 
 ## How2Slack
 **Purpose:** Find best practices and help regarding the use of slack. Questions about how to use slack or best practices? This is the place to share them!
