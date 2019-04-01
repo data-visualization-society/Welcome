@@ -1,4 +1,4 @@
-#Slack Channels
+# Slack Channels
 
 **Note:** Work in progress
 
