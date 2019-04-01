@@ -1,4 +1,4 @@
-# Welcome
+# Welcome Documentation
 
 This is your place to find documentation related to Data Visualization Society! 
 
