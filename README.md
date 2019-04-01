@@ -8,7 +8,7 @@ This is your place to find documentation related to Data Visualization Society!
 
 Interested in posting to the Data Visualizaion Society Medium page? Find instructions to do so here! (TKTK: link to documentation once created)
 
-## Slack Channels
+## [Slack Channels](slackChannels.md)
 
 Your guide to all the slack channels. (TKTK: link to documentation once created)
 
