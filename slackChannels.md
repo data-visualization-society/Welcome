@@ -117,7 +117,7 @@
 
 **Moderators:** TKTK
 
-## Location channels
+## [Location channels](slack_locationChannels.md)
 **Purpose:** To provide a channel for discussion focused on a particular area. See a full list here! (TKTK add link once created)
 
 ## Machine-Learning
