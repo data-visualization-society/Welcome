@@ -10,5 +10,4 @@ Interested in posting to the Data Visualizaion Society Medium page? Find instruc
 
 ## [Slack Channels](slackChannels.md)
 
-Your guide to all the slack channels. (TKTK: link to documentation once created)
-
+Your guide to all the Data Visualization Society slack channels.
