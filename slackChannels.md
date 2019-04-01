@@ -88,7 +88,7 @@
 **Moderators:** TKTK
 
 ## historical-viz
-**Purpose:** TKTK
+**Purpose:** Discussion of data visualizations made before 1983
 
 **Moderators:** @Jason Forrest, @Stephanie Tuerk
 
