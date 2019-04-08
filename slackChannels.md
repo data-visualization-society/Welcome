@@ -236,7 +236,7 @@ The location channels currently in existance are as follows:
 
 **Purpose:** A place to share data resources
 
-**Moderators:** @Inga Silkworth, TKTK
+**Moderators:** @Inga Silkworth, @Thomas Mock
 
 ## topic-dynamic-data
 
