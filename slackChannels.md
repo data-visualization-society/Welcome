@@ -4,8 +4,6 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Note:** Only open channels have moderators listed.
 
-## -admin 
-**Purpose:** DVS founding members chit-chat
 
 ## -announcements
 **Purpose:** Admin only posting about Data Visualization Society related announcements
@@ -79,23 +77,22 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** Connect organizers of local meetup groups so they can help support each other and talk about what has work and not worked for their group
 
-**Moderators:** TKTK, TKTK
 
 ## connect-newbies
 
-**Purpoase:** Connecting others new to data visualization
+**Purpose:** Connecting others new to data visualization
 
-**Moderators** TKTK, TKTK
+**Moderators** @Natasha Godwin @Amy Cesal
 
 ## connect-nonprofit
 
-**Purpoase:** Connecting people working in nonprofit sector
+**Purpose:** Connecting people working in nonprofit sector
 
 **Moderators** TKTK, TKTK
 
 ## connect-speaking
 
-**Purpoase:** Connecting speakers
+**Purpose:** Connecting speakers
 
 **Moderators** TKTK, TKTK
 
@@ -103,7 +100,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** A place for people to find others looking to team up on projects
 
-**Moderators** TKTK, TKTK
+**Moderators** Moderated by @duncangeere @Alli Torban @rlage @Arran LR @Inbal Rief
 
 ## dvs_medium_editors
 
@@ -119,8 +116,6 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** The start of an assessment on the variety of communication technologies available
 
-**Moderators:** TKTK, TKTK
-
 ## dvs-data-viz-survey
 
 **Purpose**: A place for those working on the next iteration of the data visualization survey to discuss
@@ -129,9 +124,6 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** A place to organize with all the people who have volunteered to contribute. Discuss various aspects of Data Visualization Society operation including long-term goals, strategic vision, day-to-day operations (such as slack), etc.
 
-## dvs-market-cafe
-
-**Purpose:** TKTK
 
 ## dvs-moderators
 
@@ -240,7 +232,7 @@ The location channels currently in existance are as follows:
 
 ## topic-dynamic-data
 
-**Purpose:** TKTK
+**Purpose:** realtime data and dashboards!
 
 **Moderators:** TKTK, TKTK
 
@@ -277,13 +269,13 @@ The location channels currently in existance are as follows:
 
 **Purpose:** network viz focused discussions
 
-**Moderators:** TKTK, TKTK
+**Moderators:** Moderated by @Dej611 @rlage
 
 ## topic-research
 
 **Purpose:** reasearch viz focused discussions
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Tricia Aung @Enrico Bertini
 
 ## topic-sports-viz
 
