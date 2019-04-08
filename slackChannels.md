@@ -171,7 +171,7 @@ The location channels currently in existance are as follows:
 - location-brazil, moderated by @Michel Brito
 - location-canada, moderated by @Greg, @cjlm, @Kushal
 - location-chicago, moderated by @Mollz, @Nic Moe, @Princess Ojiaku
-- location-dc, moderated by @Jacques Schrag, @Alli Torban
+- location-dc, moderated by @Jacque Schrag, @Alli Torban
 - location-europe, moderated by @duncangeere, @Nussaibah
 - location-newengland, moderated by @Yvonne, @Ben Tang, @thecristen
 - location-nyc, moderated by @Jason Forrest, @Nathan Brown
