@@ -170,7 +170,7 @@ The location channels currently in existance are as follows:
 - location-apac, moderated by Chris McClellan, @John
 - location-atlanta, moderated by @Ritwik Bhatia, @Kuhu Gupta
 - location-canada, moderated by @Greg, @cjlm, @Kushal
-- location-dc, moderated by @Jacques Schrag, @Alli Torban
+- location-dc, moderated by @Jacque Schrag, @Alli Torban
 - location-europe, moderated by @duncangeere, @Nussaibah
 - location-newengland, moderated by @Yvonne, @Ben Tang, @thecristen
 - location-nyc, moderated by @Jason Forrest, @Nathan Brown
