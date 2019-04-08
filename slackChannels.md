@@ -20,7 +20,7 @@
 
 **Moderators:** TKTK, TKTK
 
-## open-discussion
+## -open-discussion
 **Purpose:** A place for open discussion that doesn't fit within other channels.
 
 **Moderators:** TKTK, TKTK
