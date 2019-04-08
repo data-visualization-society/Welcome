@@ -171,122 +171,169 @@
 
 The location channels currently in existance are as follows:
 - location-chicago, moderated by @Mollz, @Nic Moe, @Princess Ojiaku
-- location-africa, moderated by @Noe{o}lle, @Dolly
+- location-africa, moderated by @Noelle, @Dolly
+- location-apac, moderated by Chris McClellan, @John
+- location-atlanta, moderated by @Ritwik Bhatia, @Kuhu Gupta
+- location-canada, moderated by @Greg, @cjlm, @Kushal
+- location-dc, moderated by @Jacques Schrag, @Alli Torban
+- location-europe, moderated by @duncangeere, @Nussaibah
+- location-newengland, moderated by @Yvonne, @Ben Tang, @thecristen
+- location-nyc, moderated by @Jason Forrest, @Nathan Brown
+- location-seattle, moderated by @Jim Vallandingham, @Amber Thomas
+- location-uk, moderated by TKTK, TKTK
 
-## Accessibility
-**Purpose:** Discussion around accessibility challenges and successes. Answering the big question: how do we make data visualization accessible? 
-
-**Moderators:** TKTK
-
-## Best-practices
-**Purpose:** Discussion around best practices for data visualization
-
-**Moderators:** TKTK
-
-## Career-advice
-**Purpose:** A place to get and give career advice
-
-**Moderators:** TKTK
-
-## Com-tech-assessment
-**Purpose:** TKTK
-
-**Moderators:** TKTK
-
-## Consulting-freelancing
-**Purpose:** TKTK
-
-**Moderators:** TKTK
-
-## Critique
+## share-critique
 **Purpose:** Post work (whole apps or pieces) with the expectation that members will critically engage with the work and challenge or ask or explanation about your decisions. Secondarily, promote conversation about how to do critique in dataviz effectively. For best results, use the following format when posting information about pieces:
 
 - Audience
 - Project stage (ex. data collection, design)
 - What you're looking for feedback on (ex. is ___ working, how can I make ___ more clear)
 
-**Moderators:** TKTK
+**Moderators:** TKTK, TKTK
+
+## share-inspiration
+**Purpose:** A place to share articles, or data viz work you find interesting and to chat about it. Share something that may not be yours, but you've found interesting or inspiriting
+
+**Moderators:** TKTK, TKTK
+
+## share-showcase
+
+**Purpose:** Fun, critique-free posting of data visualization examples that you’ve created for others to get a sense of the kind of work you do. Show us examples of your work and talk about what you enjoy in the examples that others post.
+
+**Moderators:** TKTK, TKTK
+
+## topic-accessibility
+**Purpose:** Chatting and resources about how to make data visualization more accessible (#a11y, 508 and beyond)
+
+**Moderators:** @Matthew Montesano, @thecristen
+
+## topic-best-practices
+**Purpose:** Discussion around best practices for data visualization
+
+**Moderators:** @Jason Forrest, @Julie Krolik
+
+## topic-career-advice
+**Purpose:** A place to get and give career advice
+
+**Moderators:** TKTK, TKTK
+
+## topic-data-literacy
+
+**Purpose:** Discussions around the ability to read, understand, create and communicate data as information
+
+**Moderators:** TKTK, TKTK
+
+## topic-data-processing
+
+**Purpose:** A place to discuss data processing
+
+**Moderators:** TKTK, TKTK
+
+## topic-data-resources
+
+**Purpose:** A place to share data resources
+
+**Moderators:** TKTK, TKTK
+
+## topic-dynamic-data
+
+**Purpose:** TKTK
+
+**Moderators:** TKTK, TKTK
+
+## topic-health
+
+**Purpose:** medical and health data discussions
+
+**Moderators:** @Martin Telefont, @bckwon, @Tricia Aung
+
+## topic-historical-viz
+**Purpose:** Discussion of data visualizations made before 1983
+
+**Moderators:** @Jason Forrest, @Stephanie Tuerk
+
+## topic-interactivity
+
+**Purpose:** For conversations around dynamic data or dynamic visualizations. 
+
+**Moderators:** @Nic Moe, @cjlm @Bhargav
+
+## topic-machine-learnin
+
+**Purpose:** Conversation around machine learning. 
+
+**Moderators:** @Enrico Bertini and @Colin Megill
+
+## topic-mapping
+
+**Purpose:** Geographic focused viz discussion. 
+
+**Moderators:** @Julia Krolik, @John
+
+## topic-networks
+
+**Purpose:** network viz focused discussions
+
+**Moderators:** 
+
+## topic-research
+
+**Purpose:** reasearch viz focused discussions
+
+**Moderators:** 
+
+## topic-sports-viz
+
+**Purpose:** Sports focused visualizations and data. GO SPORTS! 
+
+**Moderators:** @mara, @Charles Perin
+
+## topic-storytelling
+
+**Purpose:** Discussions around storytelling in data visualization
+
+**Moderators:** @Lorenzo Amabili, @duncangeere
+
+## topic-teaching
+
+**Purpose:** For people who teach data visualization to chat and share experiences and resources. 
+
+**Moderators:** @jovan @marcos lage
+
+## topic-temporal
+
+**Purpose:** time-based data and the unique challenges that come with it
+
+**Moderators:** @Neil Richards, @Matthew Brehmer
+
+## topic-terminology
+
+**Purpose:** Discuss and distinguish terms around data visualization. What exactly is a dashboard?
+
+**Moderators:** TKTK, TKTK
+
+## topic-text-analytics
+
+**Purpose:** NLP and text analysis. 
+
+**Moderators:** @Lilach Manheim, @Matt S, @Michelle
+
+## topic-weather-climate
+
+**Purpose:** weather and climate data visualization
+
+**Moderators:** @Nic Wispinski, @duncangeere
+
+## topic-xenographics
+
+**Purpose:** For sharing and discussing the creation of novel, innovative, and experimental visualizations
+
+**Moderators:** @duncangeere, TKTK
 
 ## Data-all
 **Purpose:** Data sets, data analysis and data processing. 
 
 **Moderators:** @Thomas Mock, @Inga Silkworth
 
-## Data-literacy
-**Purpose:** Discussions around the ability to read, understand, create and communicate data as information.
 
-**Moderators:** TKTK
-
-## DVS_medium_editors
-**Purpose:** TKTK
-
-**Moderators:** TKTK
-
-## Gov-and-civic
-**Purpose:** where people working in government and civic tech can connect and talk about the unique challenges that comes with that work.
-
-**Moderators:** TKTK
-
-## historical-viz
-**Purpose:** Discussion of data visualizations made before 1983
-
-**Moderators:** @Jason Forrest, @Stephanie Tuerk
-
-## How2Slack
-**Purpose:** Find best practices and help regarding the use of slack. Questions about how to use slack or best practices? This is the place to share them!
-
-**Moderators:** TKTK
-
-## Interactivity
-**Purpose:** For conversations around dynamic data or dynamic visualizations. 
-
-**Moderators:** @Nic Moe, @cjlm @Bhargav
-
-## Links and Articles
-**Purpose:** A place to share articles, or data viz work you find interesting and to chat about it. Share something that may not be yours, but you've found interesting or inspiriting
-
-**Moderators:** TKTK
-
-## Location channels
-**Purpose:** To provide a channel for discussion focused on a particular area. See a full list [here](slack_locationChannels.md)!
-
-## Machine-Learning
-**Purpose:** Conversation around machine learning. 
-
-**Moderators:** @Enrico Bertini and @Colin Megill
-
-## Mapping-GIS
-**Purpose:** Geographic focused viz discussion. 
-
-**Moderators:** @Julia Krolik, @John
-
-## Showcase
-**Purpose:** Fun, critique-free posting of data visualization examples that you’ve created for others to get a sense of the kind of work you do. Show us examples of your work and talk about what you enjoy in the examples that others post
-
-**Moderators:** TKTK
-
-## Slack-re-organization
-**Purpose:** TKTK
-
-**Moderators:** TKTK
-
-## Sports-viz
-**Purpose:** Sports focused visualizations and data. GO SPORTS! 
-
-**Moderators:** @mara, @Charles Perin
-
-## Teaching-vis
-**Purpose:** For people who teach data visualization to chat and share experiences and resources. 
-
-**Moderators:** @jovan @marcos lage
-
-## Terminology 
-**Purpose:** Discuss and distinguish terms around data visualization. What exactly is a dashboard?
-
-**Moderators:** TKTK
-
-## Text-analytics
-**Purpose:** NLP and text analysis. 
-
-**Moderators:** @Lilach Manheim, @Matt S, @Michelle
 
