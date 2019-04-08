@@ -230,13 +230,13 @@ The location channels currently in existance are as follows:
 
 **Purpose:** A place to discuss data processing
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Inga Silkworth, TKTK
 
 ## topic-data-resources
 
 **Purpose:** A place to share data resources
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Inga Silkworth, TKTK
 
 ## topic-dynamic-data
 
