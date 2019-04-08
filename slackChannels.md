@@ -2,33 +2,34 @@
 
 **Note:** Work in progress
 
-## Admin 
+## -admin 
 **Purpose:** DVS founding members chit-chat
 
-## Announcements
+## -announcements
 **Purpose:** Admin only posting about Data Visualization Society related announcements
 
 **Moderators:** @Amy Cesal, @Mollz, @Elijah Meeks
 
-## Events
+## -events
 **Purpose:** Post upcoming events that you think would appeal to members
 
 **Moderators:** TKTK, TKTK
 
-## Introduction
+## -introduction
 **Purpose:** Describe your work and how you use data visualization professionally so we can get a better understanding of how our roles resemble and differ from each other
 
 **Moderators:** TKTK, TKTK
 
-## Topics-in-data-viz
-**Purpose:** Threaded discussions based on a selected topic that’s meant to be generally appealing to the field at large then compiled into a medium article. Topics change every two weeks. Topic ideas [here](https://docs.google.com/document/d/1MwgipaG25XLohM-dXdOl7R_RrGZV14CqOciehQ_wHoE/edit).
-
-**Moderators:** @Elijah Meeks, TKTK 
-
-## Open-discussion
+## open-discussion
 **Purpose:** A place for open discussion that doesn't fit within other channels.
 
 **Moderators:** TKTK, TKTK
+
+## -topics-in-data-viz
+
+**Purpose:** Threaded discussions based on a selected topic that’s meant to be generally appealing to the field at large then compiled into a medium article. Topics change every two weeks. Topic ideas [here](https://docs.google.com/document/d/1MwgipaG25XLohM-dXdOl7R_RrGZV14CqOciehQ_wHoE/edit).
+
+**Moderators:** @Elijah Meeks, TKTK 
 
 ## audience-kids
 
@@ -58,7 +59,7 @@
 
 **Purpose:** A place for people working in gov / civic sector to connect
 
-**Moderators:** **Two moderators needed**
+**Moderators:** TKTK, TKTK
 
 ## connect-hr-analytics
 
@@ -274,13 +275,13 @@ The location channels currently in existance are as follows:
 
 **Purpose:** network viz focused discussions
 
-**Moderators:** 
+**Moderators:** TKTK, TKTK
 
 ## topic-research
 
 **Purpose:** reasearch viz focused discussions
 
-**Moderators:** 
+**Moderators:** TKTK, TKTK
 
 ## topic-sports-viz
 
@@ -329,11 +330,5 @@ The location channels currently in existance are as follows:
 **Purpose:** For sharing and discussing the creation of novel, innovative, and experimental visualizations
 
 **Moderators:** @duncangeere, TKTK
-
-## Data-all
-**Purpose:** Data sets, data analysis and data processing. 
-
-**Moderators:** @Thomas Mock, @Inga Silkworth
-
 
 
