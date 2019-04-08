@@ -2,7 +2,7 @@
 
 Here's your quick guide to all the existing slack channels in the Data Visualization Society slack! 
 
-**Note:** Only open channels have moderators listed.
+**Note:** "TKTK" means there is something missing. Most often this means that we're waiting on people to claim moderator spots. This is a living, changing document, and will be updated as we go.
 
 
 ## -announcements
