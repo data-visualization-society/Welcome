@@ -59,7 +59,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** A place for people working in gov / civic sector to connect
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Melanie Mazanec and @Matthew Montesano
 
 ## connect-hr-analytics
 
