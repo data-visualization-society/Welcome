@@ -2,7 +2,7 @@
 
 Here's your quick guide to all the existing slack channels in the Data Visualization Society slack! 
 
-**Note:** "TKTK" means we still need to fill in some information. This document is a living, breathing work in progress. :)
+**Note:** Only open channels have moderators listed.
 
 
 ## -announcements
@@ -13,7 +13,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 ## -events
 **Purpose:** Post upcoming events that you think would appeal to members
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Amy Cesal, @Mollz, @Elijah Meeks
 
 ## -introduction
 **Purpose:** Describe your work and how you use data visualization professionally so we can get a better understanding of how our roles resemble and differ from each other
@@ -41,7 +41,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** Discussing visualizations made for scientists
 
-**Moderators:** @lord, TKTK
+**Moderators:** @lord, @Martin Telefont
 
 ## connect-academia
 
@@ -53,13 +53,13 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** A place for freelancers to connect
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @dmccarey  
 
 ## connect-gov-civic
 
 **Purpose:** A place for people working in gov / civic sector to connect
 
-**Moderators:** @Melanie Mazanec and @Matthew Montesano
+**Moderators:** @Melanie Mazanec, @Matthew Montesano
 
 ## connect-hr-analytics
 
@@ -165,11 +165,12 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 **Purpose:** To provide a channel for discussion focused on a particular area.
 
 The location channels currently in existance are as follows:
-- location-chicago, moderated by @Mollz, @Nic Moe, @Princess Ojiaku
 - location-africa, moderated by @Noelle, @Dolly
 - location-apac, moderated by Chris McClellan, @John
 - location-atlanta, moderated by @Ritwik Bhatia, @Kuhu Gupta
+- location-brazil, moderated by @Michel Brito
 - location-canada, moderated by @Greg, @cjlm, @Kushal
+- location-chicago, moderated by @Mollz, @Nic Moe, @Princess Ojiaku
 - location-dc, moderated by @Jacques Schrag, @Alli Torban
 - location-europe, moderated by @duncangeere, @Nussaibah
 - location-newengland, moderated by @Yvonne, @Ben Tang, @thecristen
