@@ -53,7 +53,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** A place for freelancers to connect
 
-**Moderators:** @dmccarey  
+**Moderators:** @dmccarey, @mollz
 
 ## connect-gov-civic
 
