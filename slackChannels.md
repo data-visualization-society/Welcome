@@ -102,7 +102,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Moderators** Moderated by @duncangeere @Alli Torban @rlage @Arran LR @Inbal Rief
 
-## dvs_medium_editors
+## dvs-medium-editors
 
 **Purpose:** For discussing the DVS Medium Page and articles
 
@@ -141,7 +141,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 ## dvs-writers
 **Purpose:** For brainstorming, planning, and support of writing for the DVS Publication
 
-**Moderators:** 
+**Moderators:** TKTK, TKTK
 
 ## help-code
 
