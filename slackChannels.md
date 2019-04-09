@@ -211,7 +211,7 @@ The location channels currently in existance are as follows:
 ## topic-best-practices
 **Purpose:** Discussion around best practices for data visualization
 
-**Moderators:** @Jason Forrest, @Julie Krolik
+**Moderators:** @Jason Forrest, @Julia Krolik
 
 ## topic-career-advice
 **Purpose:** A place to get and give career advice
