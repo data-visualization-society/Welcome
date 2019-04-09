@@ -159,7 +159,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** A place for general questions not related to code or design (As those can go in their own channels). Make sure you are specific and focused in any questions or requests.
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Zfurnas, TKTK
 
 ## help-slack
 **Purpose:** Questions about how to use slack or best practices? This is the place to share them!
@@ -216,13 +216,13 @@ The location channels currently in existance are as follows:
 ## topic-career-advice
 **Purpose:** A place to get and give career advice
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @abmakulec, TKTK
 
 ## topic-data-literacy
 
 **Purpose:** Discussions around the ability to read, understand, create and communicate data as information
 
-**Moderators:** @Wendy Small, TKTK
+**Moderators:** @Wendy Small, @jameslytle
 
 ## topic-data-processing
 
