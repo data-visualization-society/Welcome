@@ -59,7 +59,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** A place for people working in gov / civic sector to connect
 
-**Moderators:** @Melanie Mazanec, @Matthew Montesano
+**Moderators:** @Melanie Mazanec, @Taryn Read @Matthew Montesano
 
 ## connect-hr-analytics
 
@@ -274,7 +274,7 @@ The location channels currently in existance are as follows:
 
 ## topic-research
 
-**Purpose:** reasearch viz focused discussions
+**Purpose:** research viz focused discussions
 
 **Moderators:** @Tricia Aung @Enrico Bertini
 
