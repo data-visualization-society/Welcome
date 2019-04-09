@@ -217,7 +217,7 @@ The location channels currently in existance are as follows:
 
 **Purpose:** Discussions around the ability to read, understand, create and communicate data as information
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Wendy Small, TKTK
 
 ## topic-data-processing
 
