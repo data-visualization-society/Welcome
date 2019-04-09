@@ -299,7 +299,7 @@ The location channels currently in existance are as follows:
 
 **Purpose:** For people who teach data visualization to chat and share experiences and resources. 
 
-**Moderators:** @jovan @marcos lage
+**Moderators:** @jovan @marcos lage, @Michelle
 
 ## topic-temporal
 
