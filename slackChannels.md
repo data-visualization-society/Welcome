@@ -219,6 +219,12 @@ The location channels currently in existance are as follows:
 
 **Moderators:** @abmakulec, TKTK
 
+## topic-data-art
+
+**Purpose:** Sharing and discussing data art. 
+
+**Moderators:** @Julia Krolik @Kirell
+
 ## topic-data-literacy
 
 **Purpose:** Discussions around the ability to read, understand, create and communicate data as information
