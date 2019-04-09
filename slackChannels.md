@@ -170,18 +170,18 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 **Purpose:** To provide a channel for discussion focused on a particular area.
 
 The location channels currently in existance are as follows:
-- location-africa, moderated by @Noelle, @Dolly
-- location-apac, moderated by Chris McClellan, @John
-- location-atlanta, moderated by @Ritwik Bhatia, @Kuhu Gupta
-- location-brazil, moderated by @Michel Brito
-- location-canada, moderated by @Greg, @cjlm, @Kushal
-- location-chicago, moderated by @Mollz, @Nic Moe, @Princess Ojiaku
-- location-dc, moderated by @Jacque Schrag, @Alli Torban
-- location-europe, moderated by @duncangeere, @Nussaibah
-- location-newengland, moderated by @Yvonne, @Ben Tang, @thecristen
-- location-nyc, moderated by @Jason Forrest, @Nathan Brown
-- location-seattle, moderated by @Jim Vallandingham, @Amber Thomas
-- location-uk, moderated by @Neil Richards, TKTK
+- **location-africa**, moderated by @Noelle, @Dolly
+- **location-apac**, moderated by Chris McClellan, @John
+- **location-atlanta**, moderated by @Ritwik Bhatia, @Kuhu Gupta
+- **location-brazil**, moderated by @Michel Brito
+- **location-canada**, moderated by @Greg, @cjlm, @Kushal
+- **location-chicago**, moderated by @Mollz, @Nic Moe, @Princess Ojiaku
+- **location-dc**, moderated by @Jacque Schrag, @Alli Torban
+- **location-europe**, moderated by @duncangeere, @Nussaibah
+- **location-newengland**, moderated by @Yvonne, @Ben Tang, @thecristen
+- **location-nyc**, moderated by @Jason Forrest, @Nathan Brown
+- **location-seattle**, moderated by @Jim Vallandingham, @Amber Thomas
+- **location-uk**, moderated by @Neil Richards, TKTK
 
 ## share-critique
 **Purpose:** Post work (whole apps or pieces) with the expectation that members will critically engage with the work and challenge or ask or explanation about your decisions. Secondarily, promote conversation about how to do critique in dataviz effectively. For best results, use the following format when posting information about pieces:
