@@ -293,7 +293,7 @@ The location channels currently in existance are as follows:
 
 **Purpose:** Discussions around storytelling in data visualization
 
-**Moderators:** @Lorenzo Amabili, @duncangeere
+**Moderators:** @Lorenzo Amabili, @duncangeere, @mollz
 
 ## topic-teaching
 
