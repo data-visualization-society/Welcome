@@ -138,6 +138,11 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Moderators:** @Mollz, @Amy Cesal, @Elijah Meeks
 
+## dvs-writers
+**Purpose:** For brainstorming, planning, and support of writing for the DVS Publication
+
+**Moderators:** 
+
 ## help-code
 
 **Purpose:** Got stuck on a technical problem? This is the place to come for help! 
