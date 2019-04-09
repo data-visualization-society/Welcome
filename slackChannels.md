@@ -269,7 +269,7 @@ The location channels currently in existance are as follows:
 
 **Purpose:** Geographic focused viz discussion. 
 
-**Moderators:** @Julia Krolik, @John
+**Moderators:** @Julia Krolik, @John, @Mila
 
 ## topic-networks
 
