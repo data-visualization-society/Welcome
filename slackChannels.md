@@ -186,6 +186,7 @@ The location channels currently in existance are as follows:
 ## share-critique
 **Purpose:** Post work (whole apps or pieces) with the expectation that members will critically engage with the work and challenge or ask or explanation about your decisions. Secondarily, promote conversation about how to do critique in dataviz effectively. For best results, use the following format when posting information about pieces:
 
+- Project Goals
 - Audience
 - Project stage (ex. data collection, design)
 - What you're looking for feedback on (ex. is ___ working, how can I make ___ more clear)
