@@ -141,7 +141,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 ## dvs-writers
 **Purpose:** For brainstorming, planning, and support of writing for the DVS Publication
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Elijah Meeks, @Jason Forrest
 
 ## help-code
 
