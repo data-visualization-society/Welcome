@@ -204,6 +204,12 @@ The location channels currently in existance are as follows:
 
 **Moderators:** TKTK, TKTK
 
+## spanish-general
+
+**Purpose:** Data visualization discussion in Spanish
+
+**Moderators:** @David Mendoza @Gaby @chekos
+
 ## topic-accessibility
 **Purpose:** Chatting and resources about how to make data visualization more accessible (#a11y, 508 and beyond)
 
