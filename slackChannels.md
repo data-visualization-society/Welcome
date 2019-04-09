@@ -71,7 +71,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** A place for connecting people who use data visualisation in a general news/media context
 
-**Moderators:** @Chris Knox, @Letizia, @ændrew
+**Moderators:** @vizowl, @Letizia, @ændrew
 
 ## connect-meetup-leads
 
