@@ -136,7 +136,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 ## dvs-suggestions
 **Purpose:** Members can suggest that we change or add features on the Slack, the website or more generically about DVS
 
-**Moderators:** @Mollz, @Amy Cesal, @Elijah Meeks
+**Moderators:** @Mollz, @Amy Cesal, @Elijah Meeks, @duncangeere
 
 ## dvs-writers
 **Purpose:** For brainstorming, planning, and support of writing for the DVS Publication
