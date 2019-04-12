@@ -23,7 +23,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 ## -open-discussion
 **Purpose:** A place for open discussion that doesn't fit within other channels.
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Natalia Kiseleva, TKTK
 
 ## -topics-in-data-viz
 
