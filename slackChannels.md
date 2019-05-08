@@ -191,7 +191,7 @@ The location channels currently in existance are as follows:
 - Project stage (ex. data collection, design)
 - What you're looking for feedback on (ex. is ___ working, how can I make ___ more clear)
 
-**Moderators:** @Amy Cesal, TKTK
+**Moderators:** @Amy Cesal, @Michael Petrey 
 
 ## share-inspiration
 **Purpose:** A place to share articles, or data viz work you find interesting and to chat about it. Share something that may not be yours, but you've found interesting or inspiriting
