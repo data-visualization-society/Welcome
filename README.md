@@ -6,7 +6,7 @@ This is your place to find documentation related to Data Visualization Society!
 
 ## [How to Post on Medium](postToMedium.md)
 
-Interested in posting to the Data Visualizaion Society Medium page? Find instructions to do so here! (TKTK: link to documentation once created)
+Interested in posting to the Data Visualizaion Society Medium page? Find instructions to do so here!
 
 ## [Slack Channels](slackChannels.md)
 
