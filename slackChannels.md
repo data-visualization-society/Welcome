@@ -20,11 +20,6 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Moderators:** TKTK, TKTK
 
-## -open-discussion
-**Purpose:** A place for open discussion that doesn't fit within other channels.
-
-**Moderators:** @Natalia Kiseleva, TKTK
-
 ## -topics-in-data-viz
 
 **Purpose:** Threaded discussions based on a selected topic that’s meant to be generally appealing to the field at large then compiled into a medium article. Topics change every two weeks. Topic ideas [here](https://docs.google.com/document/d/1MwgipaG25XLohM-dXdOl7R_RrGZV14CqOciehQ_wHoE/edit).
@@ -65,7 +60,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** A place for people working in people analytics and human resources to connect
 
-**Moderators:** @Kelly Gilbert, TKTK
+**Moderators:** @Kelly Gilbert, @Leví
 
 ## connect-journalism
 
@@ -142,6 +137,11 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 **Purpose:** For brainstorming, planning, and support of writing for the DVS Publication
 
 **Moderators:** @Elijah Meeks, @Jason Forrest
+
+## general
+**Purpose:** A place for open discussion that doesn't fit within other channels.
+
+**Moderators:** @Natalia Kiseleva, @Lisa
 
 ## help-code
 
