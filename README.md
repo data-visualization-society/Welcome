@@ -2,7 +2,7 @@
 
 This is your place to find documentation related to Data Visualization Society! 
 
-**Note: This is also a work in progress.**
+**Note: This is an ever-changing living document. If you find something is wrong or out-of-date, don't hesitate to submit a pull request!**
 
 ## [How to Post on Medium](postToMedium.md)
 
