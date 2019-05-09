@@ -159,7 +159,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** A place for general questions not related to code or design (As those can go in their own channels). Make sure you are specific and focused in any questions or requests.
 
-**Moderators:** @Zfurnas, TKTK
+**Moderators:** @Zfurnas, @Duncan
 
 ## help-slack
 **Purpose:** Questions about how to use slack or best practices? This is the place to share them!
@@ -324,7 +324,7 @@ The location channels currently in existance are as follows:
 
 **Purpose:** Discuss and distinguish terms around data visualization. What exactly is a dashboard?
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Nicolas Kruchten, TKTK
 
 ## topic-text-analytics
 
