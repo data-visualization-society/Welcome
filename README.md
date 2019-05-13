@@ -12,6 +12,6 @@ Interested in posting to the Data Visualizaion Society Medium page? Find instruc
 
 Your guide to all the Data Visualization Society slack channels.
 
-## [DVS Slack Moderator Guide](moderatorGuide.md)
+## [DVS Slack Moderator Guide](moderatorsGuide.md)
 
 So you signed up to be a slack moderator (or you're considering it)? Here's what that entails!
