@@ -18,13 +18,13 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 ## -introduction
 **Purpose:** Describe your work and how you use data visualization professionally so we can get a better understanding of how our roles resemble and differ from each other
 
-**Moderators:** @Carl Manaster, TKTK
+**Moderators:** @Carl Manaster, @duncangeere
 
 ## -topics-in-data-viz
 
 **Purpose:** Threaded discussions based on a selected topic that’s meant to be generally appealing to the field at large then compiled into a medium article. Topics change every two weeks. Topic ideas [here](https://docs.google.com/document/d/1MwgipaG25XLohM-dXdOl7R_RrGZV14CqOciehQ_wHoE/edit).
 
-**Moderators:** @Elijah Meeks, TKTK 
+**Moderators:** @Elijah Meeks, @duncangeere 
 
 ## audience-kids
 
@@ -164,7 +164,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 ## help-slack
 **Purpose:** Questions about how to use slack or best practices? This is the place to share them!
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @duncangeere, TKTK
 
 ## Location channels
 **Purpose:** To provide a channel for discussion focused on a particular area.
@@ -196,13 +196,13 @@ The location channels currently in existance are as follows:
 ## share-inspiration
 **Purpose:** A place to share articles, or data viz work you find interesting and to chat about it. Share something that may not be yours, but you've found interesting or inspiriting
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Yvonne, @Ray Sims
 
 ## share-showcase
 
 **Purpose:** Fun, critique-free posting of data visualization examples that you’ve created for others to get a sense of the kind of work you do. Show us examples of your work and talk about what you enjoy in the examples that others post.
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @duncangeere, TKTK
 
 ## spanish-general
 
