@@ -18,7 +18,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 ## -introduction
 **Purpose:** Describe your work and how you use data visualization professionally so we can get a better understanding of how our roles resemble and differ from each other
 
-**Moderators:** TKTK, TKTK
+**Moderators:** @Carl Manaster, TKTK
 
 ## -topics-in-data-viz
 
