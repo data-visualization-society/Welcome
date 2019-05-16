@@ -83,7 +83,7 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Purpose:** Connecting people working in nonprofit sector
 
-**Moderators** TKTK, TKTK
+**Moderators** @David Mora, @Laura Gast
 
 ## connect-speaking
 
