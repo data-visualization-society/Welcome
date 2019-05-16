@@ -68,6 +68,12 @@ Here's your quick guide to all the existing slack channels in the Data Visualiza
 
 **Moderators:** @vizowl, @Letizia, @ændrew
 
+## connect-lgbtq
+
+**Purpose:** A space for the LGBTQ+ community and allies. This could be a space to talk about challenges faced by the community, to post LGBTQ+ related visualizations, or just a space to connect!
+
+**Moderators:** @Mollz, @Alejandro
+
 ## connect-meetup-leads
 
 **Purpose:** Connect organizers of local meetup groups so they can help support each other and talk about what has work and not worked for their group
