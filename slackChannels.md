@@ -187,6 +187,7 @@ The location channels currently in existance are as follows:
 - **location-newengland**, moderated by @Yvonne, @Ben Tang, @thecristen
 - **location-nyc**, moderated by @Jason Forrest, @Nathan Brown
 - **location-seattle**, moderated by @Jim Vallandingham, @Amber Thomas
+- **location-sfbay**, moderated by @callmedeeray, @David Chung
 - **location-uk**, moderated by @Neil Richards, TKTK
 
 ## share-critique
